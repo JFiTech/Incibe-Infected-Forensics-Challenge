@@ -12,21 +12,11 @@ This Python script allows the decyption of the data that was being exfiltrated i
     `
 
 2. `cd` into the venv's directory.
-
-3. Clone the repository:
-
     `
-        git clone https://github.com/JFiTech/Incibe-Infected-Forensics-Challenge.git
+    cd decryptor
     `
 
-4. Install the dependencies:
-
-    `
-    pip install -r requirements.txt
-    `
-
-
-5. Activate the Python virtual environment (venv):
+3. Activate the Python virtual environment (venv):
 
     UNIX based systems (Linux/MacOS):
 
@@ -40,14 +30,30 @@ This Python script allows the decyption of the data that was being exfiltrated i
     .\Scripts\activate
     `
 
+4. Clone the repository:
 
-6. Running the program:
+    `
+        git clone https://github.com/JFiTech/Incibe-Infected-Forensics-Challenge.git
+    `
+
+5. cd into the `Incibe-Infected-Forensics-Challenge` directory:
+    `
+    cd Incibe-Infected-Forensics-Challenge
+    `
+
+6. Install the dependencies:
+
+    `
+    pip install -r requirements.txt
+    `
+
+7. Running the program:
 
     `
     python DecryptorPoC.py 
     `
 
-7. Deactivating the virtual environment (venv):
+8. Deactivating the virtual environment (venv):
 
     `   
     deactivate
