@@ -5,6 +5,8 @@ This Python script allows the decyption of the data that was being exfiltrated i
 ### (This README will be updated later with more info)
 
 ## Usage:
+Make sure you Python 3 installed on your system.
+
 1. Create a Python venv (virtual environment) named `decryptor`:
 
     `
@@ -57,6 +59,6 @@ This Python script allows the decyption of the data that was being exfiltrated i
 
 8. Deactivating the virtual environment (venv):
 
-    ` 
+    `
     deactivate
     `
