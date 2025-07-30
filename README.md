@@ -36,7 +36,7 @@ Make sure you have Python 3 installed on your system.
 4. Clone the repository:
 
     ```
-        git clone https://github.com/JFiTech/Incibe-Infected-Forensics-Challenge.git
+    git clone https://github.com/JFiTech/Incibe-Infected-Forensics-Challenge.git
     ```
 
 5. cd into the `Incibe-Infected-Forensics-Challenge` directory:
