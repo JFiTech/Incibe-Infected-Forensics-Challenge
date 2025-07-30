@@ -11,7 +11,8 @@ This Python script allows the decyption of the data that was being exfiltrated i
     python -m venv decryptor
     `
 
-2. `cd` into the venv's directory.
+2. `cd` into the venv's directory:
+
     `
     cd decryptor
     `
@@ -37,6 +38,7 @@ This Python script allows the decyption of the data that was being exfiltrated i
     `
 
 5. cd into the `Incibe-Infected-Forensics-Challenge` directory:
+
     `
     cd Incibe-Infected-Forensics-Challenge
     `
