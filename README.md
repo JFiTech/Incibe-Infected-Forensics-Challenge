@@ -57,6 +57,6 @@ This Python script allows the decyption of the data that was being exfiltrated i
 
 8. Deactivating the virtual environment (venv):
 
-    `   
+    ` 
     deactivate
     `
